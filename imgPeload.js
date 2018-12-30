@@ -72,3 +72,5 @@ imgPreload.defaultOpts = {
     console.log('error')
   }
 }
+
+module.exports = imgPreload
